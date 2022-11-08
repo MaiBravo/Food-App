@@ -1,0 +1,60 @@
+.todo {
+    background-image: url(https://th.bing.com/th/id/R.81308cf229f655520ea33e2db85a5aaa?rik=mUcRTfpy3hY3iA&pid=ImgRaw&r=0&sres=1&sresct=1);
+    position: absolute;
+    width: 100vw;
+    height: 140vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: round;
+    background-attachment: fixed;
+}
+
+.name {
+    color: rgb(3, 0, 0);
+    background-color: rgb(173, 159, 159);
+    border-radius: 80px;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+.imagen {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 130px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border: solid 5px black;
+    width: 300px;
+    height: 300px;
+}
+
+.detail {
+    color: rgb(3, 0, 0);
+    background-color: rgb(173, 159, 159);
+    border-radius: 20px;
+    font-size: 23px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    width: 900px;
+}
+
+.boton{
+    background-color: #d66c14;
+    border-radius:10px;
+    color:#000000;
+    font-family:cursive;
+    font-size:25px;
+    cursor: pointer;
+    margin-right: 1700px;
+    margin-top: 10px;
+}
+.boton:hover{
+    color: #d66c14 ;
+    background-color: #000000 ;
+  }
+
+  .loading{
+    font-size: 50px;
+    color: black;
+  }

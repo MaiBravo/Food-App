@@ -1,0 +1,34 @@
+.botonIniciar{
+    background-color: #d66c14;
+    border-radius:10px;
+    color:#000000;
+    font-family:cursive;
+    font-size:40px;
+    font-weight:700;
+    text-align:center;
+    margin-top: 300px;
+    cursor: pointer;
+}
+.botonIniciar:hover{
+    color: #d66c14 ;
+    background-color: #000000 ;
+}
+
+.texto{
+    color:#000000;
+    margin-left: 700px;
+    font-size: 100px;
+    font-style: oblique;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.landingPage{
+    background-image: url(https://medaboutme.ru/upload/iblock/2ec/10_prostykh_retseptov_dlya_vegetariantsev_na_kazhdyy_den.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}

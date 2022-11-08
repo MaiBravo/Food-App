@@ -1,0 +1,105 @@
+.todo {
+    background-image: url(https://th.bing.com/th/id/R.aec4073e4da5052dd5dbb144e143a6e9?rik=qQT8R2jNTydhDQ&riu=http%3a%2f%2fwww.saboresytablas.cl%2fwp-content%2fuploads%2f2019%2f08%2fbackground_v2.jpg&ehk=3XCoDppeEpHhEZ4ZJ5qrpzj%2bnPdPVa92z1ymCmneHO4%3d&risl=&pid=ImgRaw&r=0);
+    position: absolute;
+    width: 100vw;
+    height: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.btnVolver {
+    background-color: #d66c14;
+    border-radius: 10px;
+    color: #000000;
+    font-family: cursive;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 1700px;
+}
+
+.btnVolver:hover {
+    color: #d66c14;
+    background-color: #000000;
+}
+
+.btnCrear {
+    background-color: #d66c14;
+    border-radius: 10px;
+    color: #000000;
+    font-family: cursive;
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 100px;
+}
+
+.btnCrear:hover {
+    color: #d66c14;
+    background-color: #000000;
+}
+
+.btnCrearD{
+    background-color: #9c9b9a;
+    border-radius: 10px;
+    color: #000000;
+    font-family: cursive;
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 100px;
+}
+
+.botonX{
+    background-color: rgb(0, 0, 0);
+    color: rgb(238, 238, 238);
+    border-radius: 40px;
+}
+.del{
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #b6b6b6;
+    color: black;
+    font-size: 20px;
+}
+.cont {
+    color: #000000;
+    font-family: Montserrat;
+    margin: 70px 0px 70px;
+}
+
+.dato {
+    align-items: center;
+    background-color: darkgrey;
+    border-radius: 8px;
+    font-size: 30px;
+    border-color: #000000;
+    font-family: cursive;
+}
+
+.titulo {
+    font-size: 30px;
+    font-family: cursive;
+} 
+
+.tituloG{
+    font-size: 50px;
+    font-family: cursive;
+    display: block;
+    background-color:gray;
+}
+
+.selecDiet{
+    color: brown;
+    font-size: 25px;
+}
+
+.err{
+    color: red;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,96 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px 20px 20px;
+    border: 10px;
+    text-align: center;
+  }
+  
+  .todo{
+    background-image: url(https://i.pinimg.com/originals/29/09/de/2909dea24c48d148053e6be1e1c507cf.jpg);
+    position:absolute;
+    width: 100vw;
+    height: 140vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat:round;
+    background-attachment:fixed;
+  }
+  
+
+.searchBar{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.paginado{
+  margin-bottom: 30px;
+}
+
+.filtros{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.filtro{
+  background-color: #f0b382;
+  border-radius:15px;
+  color:#000000;
+  font-family:cursive;
+  padding:10px;
+  text-align:center;
+  cursor: pointer;
+  font-size: 20px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.cargarRec{
+  background-color: #d66c14;
+  border-radius:10px;
+  color:#000000;
+  font-family:cursive;
+  font-size:20px;
+  cursor: pointer;
+  margin-right: 100px;
+}
+.cargarRec:hover{
+  color: #d66c14 ;
+  background-color: #000000 ;
+}
+
+.crearRec{
+  background-color: #d66c14;
+  border-radius:10px;
+  color:#000000;
+  font-family:cursive;
+  font-size:20px;
+  cursor: pointer;
+}
+.crearRec:hover{
+  color: #d66c14 ;
+  background-color: #000000 ;
+}
+
+.titulo{
+  color: rgba(5, 5, 5, 0.979);
+  font-size: 70px;
+  font-family:cursive;
+  margin-right: 950px;
+  background-color: darkgrey;
+  background-repeat:repeat;
+}
+
+.loading{
+  font-size: 50px;
+  color:white;
+  background-image: url(https://i.pinimg.com/originals/29/09/de/2909dea24c48d148053e6be1e1c507cf.jpg);
+  position:absolute;
+  width: 100vw;
+  height: 200vw;
+  background-size: cover;
+  background-position: center;
+  background-repeat:repeat;
+  background-attachment:fixed;
+}

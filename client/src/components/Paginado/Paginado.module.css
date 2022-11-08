@@ -1,0 +1,14 @@
+.paginado{
+    text-align:center;
+  }
+  
+  .number{
+    margin: 20px;
+    padding: 14px;
+    border: solid 4px rgb(253, 169, 169);
+    border-radius: 30%;
+    display: inline;
+    cursor: pointer;
+    color: rgb(238, 158, 158);
+    font-size: 22px;
+  }

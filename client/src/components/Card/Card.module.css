@@ -1,0 +1,18 @@
+.card{
+    display: inline-block;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: darkgrey;
+    height: 540px;
+    width: 310px;
+    margin: 100px;
+    margin-bottom: 50px;
+    margin-top: 5px;
+    color:black;
+} 
+
+.titulo{
+    color:rgb(184, 58, 58);
+}
